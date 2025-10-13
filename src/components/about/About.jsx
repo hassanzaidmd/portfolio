@@ -5,7 +5,7 @@ import profile from "../../assets/profile2.jpg";
 import { Info } from "./Info";
 import leetcodeLogo from "../../images/leetcode.png";
 import gfg from "../../images/gfg.png";
- import CV from "../../assets/roshanraj_resume.pdf";
+ import CV from "../../assets/Zaid Resume.pdf";
 
 
 export const About = () => {
@@ -20,7 +20,7 @@ export const About = () => {
           <Info />
 
           <p className="about__description">
-            👋 "Hi, my name is Er Khush Alam, and I'm a full-stack
+            👋 "Hi, my name is Mohammad Zaid Hassan, and I'm a full-stack
             developer with experience in designing, building, and deploying
             end-to-end web applications. I work across both front-end and
             back-end technologies, with a strong foundation in [ React, Node.js,
@@ -34,7 +34,7 @@ export const About = () => {
             <div className="link_info">
 
               <a
-                href="https://www.linkedin.com/in/khush-alam-87134b2b9/"
+                href="https://www.linkedin.com/in/mohammad-zaid-hassan-746b88389/"
                 className="home__social-icon"
                 target="blank"
               >
@@ -42,7 +42,7 @@ export const About = () => {
               </a>
 
               <a
-                href="https://leetcode.com/u/KHUSHALAM/"
+                href="https://leetcode.com/u/hassanzaidmd/"
                 className="home__social-icon"
                 target="blank"
               >
@@ -54,7 +54,7 @@ export const About = () => {
                 />
               </a>
               <a
-                href="https://www.geeksforgeeks.org/user/khush7xg05/"
+                href="https://www.geeksforgeeks.org/user/hassanzcg5r/"
                 className="home__social-icon"
                 target="blank"
               >
@@ -69,7 +69,7 @@ export const About = () => {
               </a>
 
               <a
-                href="https://github.com/KhushAlam"
+                href="https://github.com/hassanzaidmd"
                 className="home__social-icon"
                 target="blank"
               >

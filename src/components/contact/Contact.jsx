@@ -43,17 +43,17 @@ useEffect(()=>{
 
       <div className="contact__container container grid">
         <div className="contact__content">
-          <h3 className="contact__title">Talk to Er Khush Alam</h3>
+          <h3 className="contact__title">Talk to Mohammad Zaid Hassan</h3>
 
           <div className="contact__info">
             <div className="contact__card">
               <i className="bx bx-envelope contact__card-icon"></i>
 
               <h3 className="contact__card-title"> Email</h3>
-              <span className="contact__card-data">Khush735265@gmail.com</span>
+              <span className="contact__card-data">hassanzaidmd@gmail.com</span>
               <a
                 className="contact__button"
-                href="roshank14176@gmail.com"
+                href="hassanzaidmd@gmail.com"
                 target="blank"
               >
                 Write me
