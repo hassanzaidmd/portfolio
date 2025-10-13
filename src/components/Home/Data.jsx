@@ -4,7 +4,7 @@ const Data=()=>{
 
     return (
        <div className="home__data">
-        <h1 className="home__title">Khush Alam 
+        <h1 className="home__title">Mohammad Zaid Hassan
 
         <svg
                   width="36"
@@ -60,7 +60,7 @@ const Data=()=>{
         <h3 className="home__subtitile">  Full Stack Developer |</h3>
         <h3 className="home__subtitiles"> React.js | Node.js | Express.js | MongoDB</h3>
         <p className="home__description">
-       👋 Hi, I'm Er Khush Alam  <br/>
+       👋 Hi, I'm Mohammad Zaid Hassan  <br/>
 💻   I'm a full-stack developer with experience in designing, building, and deploying end-to-end web applications. I work across both front-end and back-end technologies, with a strong foundation in [ React, Node.js, Express, CSS, BootStrap, Swiper and MongoDB]
         </p>
         <a href="#contact" className="button button--flex">

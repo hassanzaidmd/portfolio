@@ -29,7 +29,7 @@ const projects = [
         },
       ],
       image:Project1 ,
-      source_code_link: "https://github.com/KhushAlam",
+      source_code_link: "https://github.com/hassanzaidmd",
     },
     
 
@@ -55,7 +55,7 @@ const projects = [
         
       ],
       image: Project3,
-      source_code_link: "https://github.com/KhushAlam",
+      source_code_link: "https://github.com/hassanzaidmd",
     },
 
        {
@@ -100,7 +100,7 @@ const projects = [
         },
      ],
       image: Project2,
-      source_code_link: "https://github.com/KhushAlam",
+      source_code_link: "https://github.com/hassanzaidmd",
      },
   //   {
   //     name: "Health Care Appointment System",

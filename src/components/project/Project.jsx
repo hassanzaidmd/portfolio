@@ -37,7 +37,7 @@ export const Project = () => {
             <div className="project__img">
             
               <img className='img' src={coming}/>
-              <a href="https://github.com/KhushAlam" target='blank'></a>
+              <a href="https://github.com/hassanzaidmd" target='blank'></a>
               {/* <img className='github' src={github} alt="" style={{  backgroundColor:"black" , height:"30px", width:"30px", borderRadius:"48%"}} /> */}
            
             </div>

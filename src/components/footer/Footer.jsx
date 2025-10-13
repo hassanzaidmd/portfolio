@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
   <footer className='footer'>
     <div className="footer__container container">
-    <h1 className="footer__title">Er Khush Alam</h1>
+    <h1 className="footer__title">Mohammad Zaid Hassan</h1>
     <ul className="footer__list">
       <li>
         <a href="#about" className="footer__link">About</a>
@@ -19,21 +19,21 @@ export const Footer = () => {
       </li>
     </ul>
     <div className="footer__social">
-    <a href="https://www.linkedin.com/in/khush-alam-87134b2b9/"  className="footer__social-icon" target="blank">
+    <a href="https://www.linkedin.com/in/mohammad-zaid-hassan-746b88389/https://leetcode.com/u/hassanzaidmd/"  className="footer__social-icon" target="blank">
 
 <i className="uil uil-linkedin"></i>
 </a>
 
-<a href="https://leetcode.com/u/KHUSHALAM/" className="footer__social-icon" target="blank">
+<a href="https://leetcode.com/u/hassanzaidmd/" className="footer__social-icon" target="blank">
 <img src={leetcodeLogo} alt="leetcode" className="uil"  style={{height:20}} />
 </a>
-<a href="https://www.geeksforgeeks.org/user/khush7xg05/"  className="footer__social-icon" target="blank">
+<a href="https://www.geeksforgeeks.org/user/hassanzcg5r/"  className="footer__social-icon" target="blank">
 
 <i className="uil "><img src={gfg} alt="" className="uil"style={{height:20}} /></i>
 
 </a>
 
-<a href="https://github.com/KhushAlam" className="footer__social-icon" target="blank">
+<a href="https://github.com/hassanzaidmd" className="footer__social-icon" target="blank">
 <i className="uil uil-github"></i>
 </a>
     </div>

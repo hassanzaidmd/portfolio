@@ -26,7 +26,7 @@ const Toggle =(index)=>{
     return (
         <header className="header">
         <nav className="nav container">
-            <a href="index.html" className="nav__logo">Er.Khush Alam</a>
+            <a href="index.html" className="nav__logo">Mohammad Zaid Hassan</a>
 
             <div className={toggle? "nav__menu  show-menu": "nav__menu"}>
                 <ul className="nav__list grid">
