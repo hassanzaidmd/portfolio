@@ -65,7 +65,7 @@ useEffect(()=>{
               <i className="bx bxl-whatsapp contact__card-icon"></i>
 
               <h3 className="contact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">8092492943</span>
+              <span className="contact__card-data">7063815368</span>
               <a
                 href="https://whatsapp.com/dl/"
                 target="blank"
